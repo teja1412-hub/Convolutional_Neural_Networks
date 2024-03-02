@@ -1,0 +1,1 @@
+Download the pre-trained model's parameters "imagenet-vgg-verydeep-19.mat", "vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5" in this folder. 
